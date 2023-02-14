@@ -11,6 +11,6 @@
 
 #### git branch -M [lab1, lab2, ...]
 
-#### git remote add origin https://github.com/tanloc10203/PTUDWeb.git
+#### git remote add origin https://github.com/tanloc10203/B1910251_PhanTanLoc_PTWeb.git
 
 #### git push origin [lab1, lab2, ...]

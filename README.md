@@ -1,5 +1,8 @@
 ### BAI TAP THUC HANH PHAT TRIEN WEB
 
+**Ho va ten**: Phan Tan Loc
+**MSSV**: B1910251
+
 #### git init
 
 #### git add .
